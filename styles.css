@@ -1,0 +1,18 @@
+/* Add a font family and background color to the body. */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(161, 161, 161);
+}
+
+/* Style the name. */
+#header {
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    font-size: 32px;
+}
+
+/* Add padding to page content. */
+.menu + .content {
+padding-top: 60px;
+}
